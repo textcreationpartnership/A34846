@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of some proceedings, lately made, for an effectual prohibition of the exportation of wooll, &amp;c. recommended to the woollen manufacturers of this kingdome.</title>
+            <author>Carter, W. (William)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34846</idno>
+            <idno type="STC">Wing C671</idno>
+            <idno type="STC">ESTC R4126</idno>
+            <idno type="EEBO-CITATION">14713258</idno>
+            <idno type="OCLC">ocm 14713258</idno>
+            <idno type="VID">102716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of some proceedings, lately made, for an effectual prohibition of the exportation of wooll, &amp;c. recommended to the woollen manufacturers of this kingdome.</title>
+                  <author>Carter, W. (William)</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing to Carter.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:102716:1"/>
+            <pb n="1" facs="tcp:102716:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT <hi>Of ſome Proceedings, lately made, for an Effectual Prohibition of the EXPORTA<g ref="char:EOLhyphen"/>TION of</hi> WOOLL, <hi>&amp;c. Recommended to the</hi> WOOLLEN MANU<g ref="char:EOLhyphen"/>FACTURERS <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f this</hi> KINGDOME.</head>
+            <p>
+               <hi>FRANCIS MONK,</hi> and others, ha<g ref="char:EOLhyphen"/>ving made ſeveral Attempts to obtein a Commiſſion, to Empower them to put in Execution the Laws for Prohibiting the Exportation of <hi>WOOL</hi> &amp;c. Petitioned the Late King of Bleſſed Memory to that end, the Conſideration whereof was referred to the Right Honourable the Lords of the Committee of Trade, who made their Re<g ref="char:EOLhyphen"/>port thereupon, which, together with the ſaid Petition by Order of Council, was referred to the Right Honourable the Lords of the
+<pb n="2" facs="tcp:102716:2"/> Treaſury; and their Lordſhips, for their better Information, referred the Matter, with the ſaid <hi>Monk</hi>'s Propoſal and Papers, to the Attorney General, to the Commiſſioners of the Cuſtoms, and the <hi>Hamburgh</hi> Company; who ha<g ref="char:EOLhyphen"/>ving ſeverally made their Reſpective Re<g ref="char:EOLhyphen"/>ports, the ſaid Propoſers not being recommended thereby, as Perſons fitting for ſo great an undertaking, their Project took no effect.</p>
+            <p>And in regard, ſome of the ſaid Propoſers, in former Seſſions of Parliament, had endeavou<g ref="char:EOLhyphen"/>red to ſet on foot new Bills, to alter and abate the Penalties of the Laws, already made, to Prohibit the ſaid Exportation; it was doubt<g ref="char:EOLhyphen"/>ed, whether they were Perſons qualified for a hearty carrying on the pretended Prohibition.</p>
+            <p>Therefore, in <hi>July 1684, Benjamin Craker, Charles Craker,</hi> and <hi>Joſeph Reeve,</hi> Staplers, <hi>William Brewer, John Wood, John Walkley, Richard Scott, Thomas Smale, Thomas Crundal</hi> and ſeve<g ref="char:EOLhyphen"/>ral others, Clothiers and Factors, hearing of the Attempt of the ſaid <hi>Monk</hi> and his Partners, Petitioned the Lords of the Treaſury, ſetting
+<pb n="3" facs="tcp:102716:2" rendition="simple:additions"/> forth, that the ſaid Propoſal (if honeſtly in<g ref="char:EOLhyphen"/>tended) being of great Moment, and univer<g ref="char:EOLhyphen"/>ſal Concern to the Kingdome, was not fitting to be truſted in the hands of ſuch (or any) pri<g ref="char:EOLhyphen"/>vate Perſons; and therefore pray'd their Lord<g ref="char:EOLhyphen"/>ſhips to recommend the ſame to the <hi>Hambo<g ref="char:EOLhyphen"/>rough, Eaſt-India, Turkey, African, Ruſſia,</hi> and <hi>Eaſt<g ref="char:EOLhyphen"/>land</hi> Companies, and other general Woollen Traders, of whoſe Prudence and Integrity there could be no ſuſpition, to conſider the ſaid Pro<g ref="char:EOLhyphen"/>poſals, and to report to their Lordſhips ſuch Rules and Methods, as they thought ſit, for the Effectual putting the ſaid Lawes in Execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>In anſwer to which Petition, the Right Ho<g ref="char:EOLhyphen"/>nourable the Lords of the Treaſury, by their Letters to the ſaid ſeveral Companies, of the 25 of <hi>July</hi> 1684; taking notice that the effectual Prohibition of the Exportation of <hi>WOOLL</hi> would be of great advantage, not only to his Majeſty, but all his Trading Subjects, Tranſmit<g ref="char:EOLhyphen"/>ting alſo a Copy of the ſaid Propo<g ref="char:EOLhyphen"/>ſal and Papers, deſired the ſaid Compa<g ref="char:EOLhyphen"/>nies, or ſome Members by them Deputed, to meet together, to conſider the ſaid Papers, and
+<pb n="4" facs="tcp:102716:3"/> report ſuch rules and methods, for putting the ſaid Prohibition in execution, as they ſhould conceive moſt effectual for that end; and to in<g ref="char:EOLhyphen"/>form their Lordſhips, whether they were wil<g ref="char:EOLhyphen"/>ling to take the care of ſeeing the Lawes put in Execution, for Prohibiting the ſaid Exportation.</p>
+            <p>Hereupon, ſeveral Members were Deputed by each of the ſaid Companies of Merchants to meet; who at a Conference together agreed, that the ſaid Prohibition could not be effected, without raiſing a Fund to defray the expence thereof, and that it was not fit to put the <hi>KING</hi> to the charge of it; but rather that all the Woollen Artifi<g ref="char:EOLhyphen"/>cers and Traders ſhould contribute thereunto, that ſo thoſe Perſons, who feel the ſaid Greivance, ſhould be inſtrumental and aſſiſting in the Re<g ref="char:EOLhyphen"/>dreſſing thereof.</p>
+            <p>The Factors of <hi>Blackwel</hi>-Hall did alſo chuſe one or two Perſons out of each Hall, to attend the Committee of the ſaid Companies of Mer<g ref="char:EOLhyphen"/>chants; who having declared their readineſs to Contribute to ſo good a Work, ſeveral of them entered into a Subſcription to pay voluntarily ſeveral Rates upon all ſorts of Woollen Manufa<g ref="char:EOLhyphen"/>ctures
+<pb n="5" facs="tcp:102716:3" rendition="simple:additions"/> conſigned to them (<hi>viz.</hi>) for every <hi>Cloth 2d.</hi> for every <hi>Searge 1d.</hi> and ſo proportionably for all other ſorts of the <hi>Engliſh</hi> Woollen Manu<g ref="char:EOLhyphen"/>facture, which Subſcription was cheerfully Signed by ſeveral of the moſt eminent Factors.</p>
+            <p>Now becauſe, at ſeveral Seſſions of Parlia<g ref="char:EOLhyphen"/>ment, there have not been wanting ſome Per<g ref="char:EOLhyphen"/>ſons, who have attempted to overthrow the wholeſome Lawes, already made for prohibiting the ſaid Exportation. And therefore it is like<g ref="char:EOLhyphen"/>ly, the ſame Deſigns will again be ſet on foot, either by the ſame or ſuch like Perſons.</p>
+            <p>And the Seſſion of Parliament being near ap<g ref="char:EOLhyphen"/>proaching, for the prevention thereof it is pro<g ref="char:EOLhyphen"/>poſed, that all maner of Woollen Manufacturers in the ſeveral Counties of <hi>England,</hi> would join in the ſaid Subſcription for the carrying on ſo good a Work, by ſo light and eaſie Contribu<g ref="char:EOLhyphen"/>tion as aforeſaid, only for an Experiment of three Years, that ſo the Progreſs already made therein may not be obſtructed; the Merchants being likewiſe willing to Contribute thereunto conſide<g ref="char:EOLhyphen"/>rably. And for the ſatisfaction of all Perſons aſſiſting in ſo great a Work, that there may be no juſt Objection againſt it: It is Propo<g ref="char:EOLhyphen"/>ſed,
+<pb n="6" facs="tcp:102716:4"/> that the Clothiers and Factors ſhall have Li<g ref="char:EOLhyphen"/>berty to appoint Members out of themſelves to join with the Merchants, deputed to conſi<g ref="char:EOLhyphen"/>der of the Method, and diſpoſe of the Moneys collected, that it may be impoſſible the Con<g ref="char:EOLhyphen"/>tribution ſhould be abuſed or imployed to other Purpoſes; it being not likely to imagine, that, where there is ſuch a joint united Aſſiſtance of all manner of Perſons concerned in the Wollen-Trade, ſo many incorporated Companies of Merchants and others concerned, the Clothiers and Factors by their Deputies being preſent and privy at all Conſultations, there ſhould be any Miſcarriage.</p>
+            <p>And the ſaid Prohibition can never be Ma<g ref="char:EOLhyphen"/>naged with that Candor and Vprightneſs, by pri<g ref="char:EOLhyphen"/>vate and particular Perſons. Who, as they declare undertake it, to get Money by it; Whereas theſe Companies do propoſe to ſpend both their Time and Mony without any manner of Deſign of private Benefit to themſelves, but with a conſtant Annual Charge, freely Contributed for the Pub<g ref="char:EOLhyphen"/>lick Good.</p>
+            <p>Now for as much, as, in former Seſſions of Parliament, the whole matter of the ſaid miſ<g ref="char:EOLhyphen"/>chiefs
+<pb n="7" facs="tcp:102716:4" rendition="simple:additions"/> of Exportation hath been throughly conſi<g ref="char:EOLhyphen"/>dered, and Concluded, that the Acts in force againſt the ſaid Exportation, wanted only Ex<g ref="char:EOLhyphen"/>planation and Execution; to the end that a ſhort Bill to that purpoſe may paſs, this next Seſſion, its deſired that the Woollen Manufacturers, in the ſeveral Counties, will engage their reſpe<g ref="char:EOLhyphen"/>ctive Members to promote the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
